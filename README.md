@@ -70,6 +70,7 @@ The objective of this project is to analyze customer behavior, product performan
 
 
 ## Dashboard
-
+- Can see Dynamic Dashboard here <a href="https://github.com/Shahdgmal/Sales/blob/main/Sales.pbix
+">DashBoard</a>
 
 
